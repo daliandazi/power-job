@@ -11,7 +11,7 @@
 <a href="https://github.com/PowerJob/PowerJob/blob/master/LICENSE"><img src="https://img.shields.io/github/license/KFCFans/PowerJob" alt="LICENSE"></a>
 </p>
 
-[PowerJob](https://github.com/PowerJob/PowerJob) is an open-source distributed computing and job scheduling framework which allows developers to easily schedule tasks in their own application.
+[PowerJob]is an open-source distributed computing and job scheduling framework which allows developers to easily schedule tasks in their own application.
 
 Refer to [PowerJob Introduction](https://www.yuque.com/powerjob/en/introduce) for detailed information.
 
@@ -50,7 +50,7 @@ Refer to [PowerJob Introduction](https://www.yuque.com/powerjob/en/introduce) fo
 **[中文文档](https://www.yuque.com/powerjob/guidence/intro)**
 
 # Known Users
-[Click to register as PowerJob user!](https://github.com/PowerJob/PowerJob/issues/6)  
+[Click to register as PowerJob user!](https://github.com/daliandazi/power-job/issues/6)  
 ღ( ´・ᴗ・\` )ღ Many thanks to the following registered users. ღ( ´・ᴗ・\` )ღ
 <p style="text-align: center">
 <img src="https://raw.githubusercontent.com/KFCFans/PowerJob/master/others/images/user.png" alt="PowerJob User" title="PowerJob User"/>
@@ -68,6 +68,6 @@ PowerJob is released under Apache License 2.0. Please refer to [License](./LICEN
 
 - Any developer interested in getting more involved in PowerJob may join our [Reddit](https://www.reddit.com/r/PowerJob) or [Gitter](https://gitter.im/PowerJob/community) community and make [contributions](https://github.com/PowerJob/PowerJob/pulls)!
 
-- Reach out to me through email **tengjiqi@gmail.com**. Any issues or questions are welcomed on [Issues](https://github.com/PowerJob/PowerJob/issues).
+- Reach out to me through email **274636098@qq.com**. Any issues or questions are welcomed on [Issues](https://github.com/PowerJob/PowerJob/issues).
 
 - Look forward to your opinions. Response may be late but not denied.
